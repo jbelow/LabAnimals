@@ -1,0 +1,16 @@
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabA-Animals\bin\Debug\net5.0\LabA-Animals.exe
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabA-Animals\bin\Debug\net5.0\LabA-Animals.deps.json
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabA-Animals\bin\Debug\net5.0\LabA-Animals.runtimeconfig.json
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabA-Animals\bin\Debug\net5.0\LabA-Animals.runtimeconfig.dev.json
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabA-Animals\bin\Debug\net5.0\LabA-Animals.dll
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabA-Animals\bin\Debug\net5.0\ref\LabA-Animals.dll
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabA-Animals\bin\Debug\net5.0\LabA-Animals.pdb
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabA-Animals\obj\Debug\net5.0\LabA-Animals.csprojAssemblyReference.cache
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabA-Animals\obj\Debug\net5.0\LabA-Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabA-Animals\obj\Debug\net5.0\LabA-Animals.AssemblyInfoInputs.cache
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabA-Animals\obj\Debug\net5.0\LabA-Animals.AssemblyInfo.cs
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabA-Animals\obj\Debug\net5.0\LabA-Animals.csproj.CoreCompileInputs.cache
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabA-Animals\obj\Debug\net5.0\LabA-Animals.dll
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabA-Animals\obj\Debug\net5.0\ref\LabA-Animals.dll
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabA-Animals\obj\Debug\net5.0\LabA-Animals.pdb
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabA-Animals\obj\Debug\net5.0\LabA-Animals.genruntimeconfig.cache

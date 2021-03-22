@@ -1,0 +1,16 @@
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabAnimals\bin\Debug\net5.0\LabAnimals.exe
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabAnimals\bin\Debug\net5.0\LabAnimals.deps.json
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabAnimals\bin\Debug\net5.0\LabAnimals.runtimeconfig.json
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabAnimals\bin\Debug\net5.0\LabAnimals.runtimeconfig.dev.json
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabAnimals\bin\Debug\net5.0\LabAnimals.dll
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabAnimals\bin\Debug\net5.0\ref\LabAnimals.dll
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabAnimals\bin\Debug\net5.0\LabAnimals.pdb
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabAnimals\obj\Debug\net5.0\LabAnimals.csprojAssemblyReference.cache
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabAnimals\obj\Debug\net5.0\LabAnimals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabAnimals\obj\Debug\net5.0\LabAnimals.AssemblyInfoInputs.cache
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabAnimals\obj\Debug\net5.0\LabAnimals.AssemblyInfo.cs
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabAnimals\obj\Debug\net5.0\LabAnimals.csproj.CoreCompileInputs.cache
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabAnimals\obj\Debug\net5.0\LabAnimals.dll
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabAnimals\obj\Debug\net5.0\ref\LabAnimals.dll
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabAnimals\obj\Debug\net5.0\LabAnimals.pdb
+C:\Users\joshb\Documents\WCTC\Spring2021\Term2\Mobile\LabAnimals\obj\Debug\net5.0\LabAnimals.genruntimeconfig.cache
